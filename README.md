@@ -1,4 +1,4 @@
-# DocketClear 🔷
+
 ### Autonomous AI Agent for Reducing Case Backlogs in Indian Courts
 
 **Theme:** AUTONOMOUS AI AGENTS FOR REAL-WORLD IMPACT  
